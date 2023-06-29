@@ -1,4 +1,4 @@
-"Hello there! I'm Ben, a front-end developer aiming to make a meaningful contribution to the web world. I possess expertise in HTML, CSS, and JavaScript, and I strive to bring these technologies together to create user-friendly, responsive, and impactful websites.
+"Hello there! I'm Serhat, a front-end developer aiming to make a meaningful contribution to the web world. I possess expertise in HTML, CSS, and JavaScript, and I strive to bring these technologies together to create user-friendly, responsive, and impactful websites.
 
 As someone with a creative vision, I aim to provide customized solutions that enhance user experience, leveraging my strong design skills. I keep up with the ever-evolving advancements in the world of technology and remain open to continuous learning in order to grasp the latest trends.
 
